@@ -1,0 +1,18 @@
+.container{
+    background-color: pink;
+    width: 80%;
+    margin: auto;
+}
+h1{
+    text-align: center;
+}
+#form{
+    width: 70%;
+    margin: auto;
+}
+input{
+    width: 20%;
+}
+p{
+    margin-left: 40%;
+}
